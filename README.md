@@ -1,4 +1,4 @@
-# Actuator Control GPIO 🎛️
+# Actuator Control 🎛️
 
 This project demonstrates actuator control using GPIO pins on a microcontroller, controlling valves, lights, and pumps. Additionally, it utilizes a SONAR sensor to perform actions based on proximity detection.
 
